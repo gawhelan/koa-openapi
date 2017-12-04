@@ -1,0 +1,9 @@
+{
+  "name": "koa-openapi",
+  "version": "0.1.0",
+  "description": "Koa middleware for validating requests against an OpenAPI specification.",
+  "main": "index.js",
+  "repository": "https://github.com/gawhelan/koa-openapi",
+  "author": "Graham Whelan <gawhelan@gmail.com>",
+  "license": "MIT"
+}
