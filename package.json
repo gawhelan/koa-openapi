@@ -5,5 +5,9 @@
   "main": "index.js",
   "repository": "https://github.com/gawhelan/koa-openapi",
   "author": "Graham Whelan <gawhelan@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "swagger2": "^0.0.26",
+    "swagger2-koa": "^0.0.38"
+  }
 }
