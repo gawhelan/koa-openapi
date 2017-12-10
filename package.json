@@ -7,7 +7,6 @@
   "author": "Graham Whelan <gawhelan@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "swagger2": "^0.0.26",
-    "swagger2-koa": "^0.0.38"
+    "swagger2": "^0.0.26"
   }
 }
